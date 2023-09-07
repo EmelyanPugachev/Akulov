@@ -5,6 +5,6 @@ using namespace std;
 int main() {
 
 	char symbol_input;
-	cout << "Hello world" << '\n' << "Write down the symbol: ";
+	cout << "Hello world" << '\n' << "Enter any symbols: ";
 	cin >> symbol_input;
 }
